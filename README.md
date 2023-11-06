@@ -32,7 +32,7 @@ Print the characters and its Huffman code.
 ``` Python
 # Get the input String
 
-string=input("Pranave 212221240040")
+string=input("Mohanraj 212221230065")
 
 # Create tree nodes
 
